@@ -8,8 +8,8 @@
    <div>
     
   <p>
-    been coding since the dawn of time,had my first 4 certificates at the age of 15,<br />
-    always learning new stuff in every domain,  planning to specialize on low level programing <br />
+    been coding since the dawn of time,had my first 4 certificates at the age of 15, 
+    always learning new stuff in every domain,  planning to specialize on low level programing  
     and back end.
     Huge astronomy nerd, and fond  
     
