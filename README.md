@@ -5,8 +5,8 @@
 <td width='60%'>
   <div align='center'>
   <h3>About me </h3>
-   <div>
-    
+   <div> 
+
   <p>
     been coding since the dawn of time, 
     had my first 4 certificates at the age of 15,
@@ -16,7 +16,7 @@
     
   </p> 
    </div>
-  <img src="https://github.com/user-attachments/assets/2db561e4-ac18-49bf-9962-6328228bdb7f" align='center' >
+  <img src="https://github.com/user-attachments/assets/63d27644-adef-4916-94c6-17e2dc800b5e" align='center' >
     </div>
 </td>
 <td>
