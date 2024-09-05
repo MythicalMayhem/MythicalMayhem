@@ -1,8 +1,6 @@
 ![views](https://komarev.com/ghpvc/?username=MythicalMayhem) 
 
-<table>
-<tr>
-<td width='60%'>
+ 
   <div align='center'>
   <h3>About me </h3>
    <div> 
@@ -15,19 +13,11 @@
     Huge astronomy nerd, and fond of FNAF
     
   </p> 
-   </div>
-  <img src="https://github.com/user-attachments/assets/63d27644-adef-4916-94c6-17e2dc800b5e" align='center' >
-    </div>
-</td>
-<td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MythicalMayhem&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  /> <br />
+ 
+  <img src="https://github.com/user-attachments/assets/63d27644-adef-4916-94c6-17e2dc800b5e" align='center' ><br />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MythicalMayhem&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  /> 
         <img height="150" src="https://leetcard.jacoblin.cool/Ayhem?theme=nord&font=Urbanist"/>  
-</td>
-
-
-</tr>
-</table>
-<h3 align="left">Languages</h3>
+ <h3 align="left">Languages</h3>
 <div  >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
