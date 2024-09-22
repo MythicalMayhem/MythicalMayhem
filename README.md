@@ -15,8 +15,8 @@
   </p> 
  
   <img src="https://github.com/user-attachments/assets/63d27644-adef-4916-94c6-17e2dc800b5e" align='center' ><br />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MythicalMayhem&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  /> 
-        <img height="150" src="https://leetcard.jacoblin.cool/Ayhem?theme=nord&font=Urbanist"/>  
+   <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MythicalMayhem&locale=en&hide_title=true&layout=compact&langs_count=100&theme=dracula&hide_border=true"   alt="languages graph"  /> 
+        <img height="185px" src="https://leetcard.jacoblin.cool/Ayhem?theme=nord&font=Urbanist"/>  
  <h3 align="left">Languages</h3>
 <div  >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+   <img width="12" />
 </div>
 <h3 align="left">Web development</h3>
 <div > 
@@ -54,14 +56,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-    <img background-color='white' src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
-</div>
-
-
-
+ <img background-color='white' src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+ </div>
 <h3 align="left">Game development / Desktop apps</h3>
 <div  >
-<img src="https://create.roblox.com/docs/d846e58aa535bce73408dce0764cbdce9ae10ed1/assets/favicon.ico" height="40">
+  <img src="https://create.roblox.com/docs/d846e58aa535bce73408dce0764cbdce9ae10ed1/assets/favicon.ico" height="40">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
     <img width="12" />
@@ -71,14 +72,32 @@
 <img width="12" />
 <img src="https://pyglet.org/static/images/pyglet.png?h=fb5623cc" height="40">
 </div>
- 
+
+<h3 align="left">Other skills</h3>
+<div>
+  Guitar enthusiast🎸🎸
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />  
+</div>
  
 
 <div align="left">
 <h3 align="left">Currently learning</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+	<img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 </div>
